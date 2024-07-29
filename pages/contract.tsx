@@ -5,7 +5,7 @@ const App = () => {
     return (
         <div className="relative w-full h-[calc(100vh-100px)]"> {/* Adjusted for full viewport height */}
             <iframe
-                src=" http://localhost:5173/"
+                src="https://convex-db.vercel.app/"
                 width="100%"
                 height="100%"
                 frameBorder="0"
