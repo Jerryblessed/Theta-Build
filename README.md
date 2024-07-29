@@ -1,12 +1,14 @@
-# Light Pro
+# Theta build
 
 ## Features
 - Upload video to theta network video services for streaming and upload 📹
 - LiveStream support on theta video streaming services 🎥
 - Login with thetapass to upload video support 🔐
 - Upload video as Non-Fungible tokens (NFTs) 💎
-- Use chatbot for assistance in video 🤖
+- Use chatbot for project assitance in video watching 🤖
 - Simple User interface 💻
+- Game playing to build innovative project
+- Convex database for collecting and getting projects
 - Get 3D feel of video object by theta cloudEdge 🌐
 - Get 2D or image feel of video object by theta cloudEdge 🎨
 - Get tags to related videos 🔖
@@ -101,5 +103,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ```
 
 
-- Special thanks to [OpenBlog repo](https://light-pro-i2c8.vercel.app), theta network edgecloud tools, Google Gemini AI and other powerful tools.
-- [Support development of lightpro ❤️](https://paystack.com/pay/0nbbu8hnpk)
+- Special thanks to [OpenBlog repo](https://light-pro-i2c8.vercel.app), [convex](https://light-pro-i2c8.vercel.app), [Theta edge cloud](https://www.thetaedgecloud.com/), theta network edgecloud tools, Google Gemini AI and other powerful tools.
+- [Support development of theta build ❤️](https://paystack.com/pay/0nbbu8hnpk)
